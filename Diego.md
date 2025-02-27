@@ -2,3 +2,6 @@
 
 # Apellidos
 Pallares Novoa
+
+# Rol
+Hermano
